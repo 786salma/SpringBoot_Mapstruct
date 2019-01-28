@@ -1,0 +1,5 @@
+applications:
+- name: SpringBoot_Maptsruct
+path: target/SpringBoot_Maptsruct-0.0.1-SNAPSHAOT.jar
+domain: cfapps.io
+instances: 1

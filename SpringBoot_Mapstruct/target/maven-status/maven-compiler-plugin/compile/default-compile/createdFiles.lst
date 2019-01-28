@@ -1,0 +1,10 @@
+com\example\demo\dto1\AddressDto.class
+com\example\demo\SpringBootMapstructApplication.class
+com\example\demo\mapper\UserMapperImpl.class
+com\example\demo\model1\Address.class
+com\example\demo\dto1\UserDto.class
+com\example\demo\mapper\AddressMapperImpl.class
+com\example\demo\model1\User.class
+com\example\demo\mapper\UserMapper.class
+com\example\demo\api\UserController.class
+com\example\demo\mapper\AddressMapper.class
